@@ -15,7 +15,7 @@ require('@alu0100813272/ull-shape-jairo')
 * [Enlace gh-pages Shape](https://ull-esit-dsi-1617.github.io/ull-shape-jairo/docs)
 
 ## Enlaces a los repositorios
-* [Enlace a repositorio del paquete ull-shape-jairo](https://github.com/ULL-ESIT-DSI-1617/ull-shape-jairo)
+* [Enlace a repositorio del paquete ull-shape-triangulo-jairo](https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo)
 
 ## Enlaces de la práctica.
 * [Enlace a página asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
