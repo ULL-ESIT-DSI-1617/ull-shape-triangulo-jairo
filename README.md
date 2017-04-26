@@ -12,7 +12,7 @@ Segundo paso, incluír el paquete en tu programa:
 require('@alu0100813272/ull-shape-triangle-jairo')
 ```
 ## Enlaces gh-pages
-* [Enlace gh-pages triangle](https://ull-esit-dsi-1617.github.io/ull-shape-triangulo-jairo/docs)
+* [Enlace gh-pages triangle.](https://ull-esit-dsi-1617.github.io/ull-shape-triangulo-jairo/docs)
 
 ## Enlaces a los repositorios
 * [Enlace a repositorio del paquete ull-shape-triangulo-jairo](https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo)
