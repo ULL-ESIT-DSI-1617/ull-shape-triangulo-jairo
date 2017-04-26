@@ -20,6 +20,7 @@
     "jsdoc": "^3.4.3"
   },
   "dependencies": {
+    "@alu0100813272/ull-shape-jairo" : "*",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.3.0",
