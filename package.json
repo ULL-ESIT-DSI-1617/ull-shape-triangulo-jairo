@@ -1,6 +1,6 @@
 {
   "name": "@alu0100813272/ull-shape-triangle-jairo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Triangle",
   "main": "./lib/triangle.js",
   "scripts": {
@@ -20,7 +20,6 @@
     "jsdoc": "^3.4.3"
   },
   "dependencies": {
-    "@alu0100813272/ull-shape-jairo": "^0.0.6",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.3.0",
