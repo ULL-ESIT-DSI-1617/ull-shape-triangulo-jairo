@@ -1,4 +1,4 @@
-# Creación de paquetes npm [![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo)
+# Creación de paquetes npm. [![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo)
 ## Paquete ull-shape-triangle-jairo
 
 Primer paso:
