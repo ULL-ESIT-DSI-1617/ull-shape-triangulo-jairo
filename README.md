@@ -1,5 +1,5 @@
 # Creación de paquetes npm [![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo)
-## Paquete ull-shape-jairo
+## Paquete ull-shape-triangle-jairo
 
 Primer paso:
 
@@ -12,7 +12,7 @@ Segundo paso, incluír el paquete en tu programa:
 require('@alu0100813272/ull-shape-triangle-jairo')
 ```
 ## Enlaces gh-pages
-* [Enlace gh-pages Shape](https://ull-esit-dsi-1617.github.io/ull-shape-jairo/docs)
+* [Enlace gh-pages triangle](https://ull-esit-dsi-1617.github.io/ull-shape-triangulo-jairo/docs)
 
 ## Enlaces a los repositorios
 * [Enlace a repositorio del paquete ull-shape-triangulo-jairo](https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangulo-jairo)
